@@ -14,7 +14,7 @@ guessing-game
 ├── nbproject
 │   └── ...
 ├── src
-│   ├── jogofourmet
+│   ├── jogogourmet
 |   |   ├── ControllerGourmet.java
 |   |   ├── ElementoGourmet.java
 |   |   ├── JogoGourmet.java
